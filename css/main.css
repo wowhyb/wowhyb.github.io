@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9efbc1;
+  background: #ff6cb9;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2614,6 +2614,8 @@ hr {
 }
 .header {
   background: #f5f5f5;
+  background-image: url("/image/imgdome.jpg");
+  padding: 25px;
 }
 .header-inner {
   padding: 25px 0 20px;
